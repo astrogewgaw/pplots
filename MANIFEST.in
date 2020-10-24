@@ -1,0 +1,10 @@
+graft src
+
+include *.md
+
+include setup.cfg
+include LICENSE.txt
+
+include versioneer.py
+include src/ptypes/_version.py
+include src/pplots/_version.py

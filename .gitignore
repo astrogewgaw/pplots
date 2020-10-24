@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+/.tox/
+/dist/
+/build/
+/src/*.egg-info
+/src/*.egg
